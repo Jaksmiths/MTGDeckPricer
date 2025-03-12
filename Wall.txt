@@ -1,0 +1,87 @@
+1 Angelic Wall (m14) 4
+1 Arcades, the Strategist (m19) 212
+1 Assault Formation (jmp) 378
+1 Axebane Guardian (rtr) 115
+1 Azorius Signet (khc) 97
+1 Bant Panorama (ala) 221
+1 Beastcaller Savant (bfz) 170
+1 Canopy Vista (bfz) 234
+1 Carven Caryatid (jmp) 382
+1 Command Tower (c20) 264
+1 Crashing Drawbridge (eld) 217
+1 Doorkeeper (rtr) 37
+1 Dusk // Dawn (c19) 63
+1 Edge of Autumn (tsr) 201
+1 Eerie Interlude (soi) 16
+1 Esper Panorama (ala) 223
+1 Evolving Wilds (m20) 246
+1 Exotic Orchard (c19) 242
+1 Farseek (m13) 170
+1 Fell the Mighty (c17) 60
+9 Forest (m21) 273
+1 Fortified Rampart (bfz) 27
+1 Glacial Fortress (xln) 255
+1 Grasslands (c17) 252
+1 Guardians of Meletis (ori) 228
+1 High Alert (rna) 182
+1 Hinterland Harbor (dom) 240
+1 Hover Barrier (rtr) 40
+2 Island (xln) 266
+1 Jeskai Barricade (frf) 15
+1 Join Shields (grn) 181
+1 Jungle Barrier (e02) 38
+1 Krosan Verge (c19) 257
+1 Mnemonic Wall (roe) 78
+1 Naya Panorama (znc) 136
+1 Orator of Ojutai (dtk) 28
+1 Overgrown Battlement (roe) 203
+1 Panharmonicon (kld) 226
+1 Perimeter Captain (wwk) 16
+5 Plains (ddk) 38
+1 Port Town (soi) 278
+1 Portcullis Vine (m21) 195
+1 Prairie Stream (c19) 265
+1 Rampant Growth (c21) 204
+1 Reclamation Sage (cmr) 248
+1 Resolute Watchdog (rna) 19
+1 Return to the Ranks (m15) 29
+1 Riptide Turtle (thb) 61
+1 Sakura-Tribe Elder (chk) 239
+1 Seaside Citadel (c17) 277
+1 Selesnya Signet (mm3) 226
+1 Shield Sphere (all) 129
+1 Sidar Kondo of Jamuraa (cmr) 535
+1 Sight of the Scalelords (dtk) 207
+1 Simic Signet (c21) 262
+1 Slaughter the Strong (cmr) 48
+1 Song of Freyalise (dom) 179
+1 Sprouting Phytohydra (dis) 95
+1 Stalwart Shield-Bearers (roe) 46
+1 Sunpetal Grove (m12) 229
+1 Sunscape Familiar (pls) 17
+1 Suspicious Bookcase (jmp) 487
+1 Sylvan Caryatid (ths) 180
+1 Temple Garden (rtr) 248
+1 Terramorphic Expanse (cmr) 497
+1 Tetsuko Umezawa, Fugitive (dom) 69
+1 Thallid Shell-Dweller (tsr) 237
+1 Tower Defense (rna) 147
+1 Tree of Redemption (isd) 207
+1 Ulvenwald Captive // Ulvenwald Abomination (emn) 175
+1 Wall of Blossoms (jmp) 442
+1 Wall of Deceit (dd2) 5
+1 Wall of Denial (ddi) 11
+1 Wall of Essence (m15) 41
+1 Wall of Frost (m14) 78
+1 Wall of Glare (uds) 25
+1 Wall of Hope (lgn) 24
+1 Wall of Junk (usg) 315
+1 Wall of Mist (grn) 58
+1 Wall of Mulch (m15) 208
+1 Wall of Omens (khc) 35
+1 Wall of Roots (ima) 190
+1 Wall of Tanglecord (som) 222
+1 Wall of Tears (sth) 50
+1 Wave of Reckoning (mmq) 56
+1 Wild Pair (plc) 144
+1 Yavimaya Coast (c21) 409
