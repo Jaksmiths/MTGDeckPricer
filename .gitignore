@@ -1,4 +1,4 @@
-*.sh
+__pycache__
 Card.py
 Data.py
 intro-DONTCHANGE.py
