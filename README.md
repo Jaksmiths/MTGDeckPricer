@@ -4,12 +4,12 @@
 MTG Pricer which displays the cost over a couple months given a textfile of the cards. 
 
 ## Setup
-'''
+```
 install requirements.txt with pip  
 if using a text file, place into /TextFile
 run python3 App.py  
 follow to localhost to view  
-'''
+```
 
 ## Text File Formating  
 quanity name set number(promo) foil/etched  
