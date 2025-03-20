@@ -1,0 +1,74 @@
+1 Arcane Denial (voc) 102
+1 Arctic Merfolk (pls) 21
+1 Blink of an Eye (dom) 46
+1 Bubble Snare (znr) 47
+1 Citanul Woodreaders (tsr) 199
+1 Command Tower (cc2) 8
+1 Commander's Sphere (c18) 200
+1 Consuming Tide (vow) 53
+1 Coralhelm Chronicler (znr) 54
+1 Cragplate Baloth (znr) 183
+1 Duskshell Crawler (mh2) 156
+1 Elfhame Druid (dom) 159
+1 Everflowing Chalice (2xm) 254
+1 Field Research (znr) 58
+14 Forest (mh2) 489
+1 Forge of Heroes (c18) 58
+1 Forgotten Ancient (c21) 189
+1 Gnarlid Colony (znr) 185
+1 Grow from the Ashes (dom) 164
+1 Hadana's Climb // Winged Temple of Orazca (rix) 158
+1 Hunting Wilds (c18) 152
+1 Hydra's Growth (thb) 172
+1 Inscription of Abundance (znr) 186
+1 Inscription of Insight (znr) 61
+1 Inspiring Call (mic) 141
+1 Into the Roil (cmr) 397
+1 Invigorating Surge (m21) 190
+14 Island (c19) 291
+1 Jace, Mirror Mage (znr) 63
+1 Llanowar Reborn (c21) 296
+1 Lullmage's Familiar (znr) 227
+1 Maddening Cacophony (znr) 67
+1 Mold Shambler (ddm) 60
+1 Murasa Sproutling (znr) 196
+1 Myriad Construct (znr) 246
+1 Novijen, Heart of Progress (c21) 305
+1 Opal Palace (c21) 306
+1 Oran-Rief, the Vastwood (c21) 307
+1 Ordeal of Nylea (cmr) 247
+1 Primal Empathy (c21) 227
+1 Primal Growth (cma) 137
+1 Reclaim the Wastes (znr) 200
+1 Ride the Avalanche (afc) 54
+1 Rite of Replication (c21) 128
+1 Roost of Drakes (znr) 74
+1 Ruinous Intrusion (mic) 28
+1 Saproling Infestation (inv) 208
+1 Sea Gate Stormcaller (znr) 77
+1 Shell Shield (znr) 79
+1 Simic Ascendancy (rna) 207
+1 Simic Signet (c21) 262
+1 Skyclave Relic (znr) 252
+1 Slinn Voda, the Rising Deep (cmr) 405
+1 Sol Ring (cc2) 7
+1 Spell Contortion (wwk) 38
+1 Sphinx of Lost Truths (zen) 69
+1 Strength of the Tajuru (c20) 192
+1 Tanazir Quandrix (stx) 240
+1 Tazeem Roilmage (znr) 84
+1 Temple of Mystery (c21) 324
+1 Territorial Allosaurus (dom) 184
+1 Thicket Elemental (ddr) 21
+1 Thieving Skydiver (znr) 85
+1 Thundering Mightmare (voc) 37
+1 Twinning Staff (c20) 70
+1 Vastwood Surge (znr) 217
+1 Verazol, the Split Current (znr) 370
+1 Vine Gecko (znr) 219
+1 Vines of Vastwood (mm2) 168
+1 Visions of Dominance (mic) 37
+1 Vorel of the Hull Clade (cm2) 169
+1 Whelming Wave (cmr) 409
+1 Wild Onslaught (dom) 188
+1 Wolfbriar Elemental (cma) 168

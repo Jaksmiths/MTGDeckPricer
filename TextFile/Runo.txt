@@ -1,0 +1,75 @@
+1 Aethersquall Ancient (kld) 39
+1 Animate Dead (mb1) 566
+1 Aqueous Form (cmr) 56
+1 Arcane Denial (all) 22b
+1 Arcane Signet (eld) 331
+1 Archetype of Imagination (mb1) 290
+1 Brainstorm (2xm) 44
+1 Breaching Leviathan (c14) 12
+1 Charcoal Diamond (cmr) 303
+1 Choked Estuary (mic) 169
+1 Command Tower (eld) 333
+1 Commander's Sphere (znc) 109
+1 Consuming Aberration (znc) 89
+1 Consuming Tide (vow) 53
+1 Countersquall (uma) 198
+1 Cryptic Serpent (akh) 48
+1 Dimir Aqueduct (mic) 172
+1 Dismal Backwater (znc) 128
+1 Dispel (bfz) 76
+1 Drown in the Loch (eld) 188
+1 Engulf the Shore (gn2) 21
+1 Everflowing Chalice (2xm) 254
+1 Exotic Orchard (cm2) 250
+1 Extract from Darkness (znc) 90
+1 Fleet Swallower (xln) 57
+1 Go for the Throat (mic) 119
+1 Gyruda, Doom of Depths (iko) 221
+1 Halimar Depths (afc) 244
+1 Heartless Act (iko) 91
+1 Heartless Summoning (isd) 104
+1 Inkwell Leviathan (c18) 91
+15 Island (afr) 269
+1 Isleback Spawn (shm) 40
+1 Junk Winder (mh2) 48
+1 Kefnet's Monument (akh) 231
+1 Kraken of the Straits (bng) 42
+1 Lochmere Serpent (eld) 195
+1 Mesmerizing Benthid (rna) 43
+1 Military Intelligence (znc) 31
+1 Mind Stone (c14) 250
+1 Mortuary Mire (mic) 176
+1 Nadir Kraken (thb) 55
+1 Negate (bbd) 123
+1 Nemesis of Reason (mb1) 1459
+1 Octoprophet (m20) 70
+1 Ominous Seas (iko) 61
+1 Port of Karfell (khm) 265
+1 Quest for Ula's Temple (wwk) 35
+1 Ravenform (khm) 72
+1 Read the Bones (ths) 101
+1 River Serpent (akh) 66
+1 Rogue's Passage (c19) 270
+1 Runo Stromkirk // Krothuss, Lord of the Deep (vow) 316
+1 Rush of Knowledge (2xm) 66
+1 Scourge of Fleets (cmr) 403
+1 Sea-Dasher Octopus (iko) 66
+1 Sky Diamond (cmr) 341
+1 Slinn Voda, the Rising Deep (cmr) 405
+1 Sol Ring (c20) 252
+1 Spawning Kraken (c21) 33
+1 Spell Rupture (gtc) 52
+1 Stormsurge Kraken (c14) 18
+1 Stormtide Leviathan (cmr) 407
+1 Striped Riverwinder (hou) 48
+1 Stubborn Denial (ktk) 56
+1 Sunken Hollow (c20) 318
+10 Swamp (c19) 294
+1 Swiftfoot Boots (c14) 275
+1 Tainted Isle (mic) 183
+1 Temple of Deceit (mic) 184
+1 Temple of the False God (mic) 186
+1 Victimize (cmr) 157
+1 Whelming Wave (cmr) 409
+1 Wonder (mh2) 271
+1 Wrexial, the Risen Deep (cm2) 171

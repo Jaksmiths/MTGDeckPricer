@@ -115,8 +115,6 @@ def update_graph(input_link, input_decision, input_retailer):
 
                 if temp_p.empty:
                     continue
-                
-                card_list.append(name)
 
                 if total_p.empty:
                     total_p = temp_p
